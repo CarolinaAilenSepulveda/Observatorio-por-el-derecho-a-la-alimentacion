@@ -265,7 +265,7 @@ export default function App() {
             }}
           >
             <Image bottom={10} left={10} position="absolute" src={imagen2} />
-            <Image left={800} position="absolute" src={imagen3} top={10} />
+            <Image position="absolute" right={10} src={imagen3} top={10} />
             <Text fontFamily="monospace" fontSize="4xl" left={750} position="absolute" top={500}>
               Huerta Agroecológica Crespo
             </Text>
